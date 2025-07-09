@@ -40,7 +40,7 @@ Get active weather alerts for a US state.
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd RemoteMcpServer/weather
+cd remoteMCPServer/weather
 ```
 
 2. Install dependencies:
